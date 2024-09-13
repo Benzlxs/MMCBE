@@ -1,5 +1,5 @@
 # MMCBE
-MMCBE: Multi-modality Dataset for Crop Biomass Estimation and Beyond
+MMCBE: Multi-modality Dataset for Crop Biomass Prediction and Beyond
 
 Please send me an [email](xuesong.li@csiro.au) with the following details:
 ```
